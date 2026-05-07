@@ -19,6 +19,12 @@ apis: []
 common:
   - type: Website
     url: https://www.forvia.com/
+  - type: Plans
+    url: plans/forvia-plans-pricing.yml
+  - type: RateLimits
+    url: rate-limits/forvia-rate-limits.yml
+  - type: FinOps
+    url: finops/forvia-finops.yml
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
