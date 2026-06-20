@@ -4,7 +4,7 @@ name: Forvia
 kind: company
 description: >-
   Forvia is a French global Tier 1 automotive supplier formed in 2022 by the combination of Faurecia and Hella. Forvia designs and manufactures cockpits, seating, interiors, lighting, electronics, hydrogen storage, and clean mobility systems for global automakers.
-image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
 tags:
   - Automotive
   - Tier 1 Supplier
