@@ -36,10 +36,12 @@ tags:
   - Lighting
   - Electronics
 created: '2026-05-06'
-modified: '2026-05-06'
+modified: '2026-10-06'
 specificationVersion: '0.23'
 apis: []
 common:
+  - url: https://www.forvia.com/en/insights
+    type: Blog
   - type: DomainSecurity
     url: security/forvia-domain-security.yml
   - type: LinkedIn
